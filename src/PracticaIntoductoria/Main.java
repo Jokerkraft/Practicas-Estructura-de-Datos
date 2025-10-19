@@ -1,3 +1,7 @@
+package PracticaIntoductoria;
+
+import PracticaIntoductoria.Producto;
+
 public class Main {
     public static void main(String[] args) {
 

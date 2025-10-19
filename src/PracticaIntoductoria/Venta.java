@@ -1,3 +1,5 @@
+package PracticaIntoductoria;
+
 public class Venta {
     private int id;
     private Cliente cliente;
